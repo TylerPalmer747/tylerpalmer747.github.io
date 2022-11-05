@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Tyler's Website</title>
+    </head>
+    <body>
+ <center><img src='csc106banner.jpg' alt="csc 106 banner">
+	<style>
+	body{background-color: rgb(48,213,200);
+	}
+	h1{font-family: cursive;
+	}
+	img#shadow {
+	box-shadow: 0 0 20px black;
+	}
+	</style>
+        <br>
+        <center><h1>Welcome to <em>Tyler's</em> Javascripts!</h1>
+	<table width="800px">
+	<br>
+	<tr>
+	   <td align="center"><a href="index.html"><img id="shadow" src="HOME.png"</td>
+	   <td align="center"><a href="javascripts.html"><img id="shadow" src="JS.png"</td>
+	   <td align="center"><a href="about.html"><img id="shadow" src="ABOUTME.png"</td>
+	   <td align="center"><a href="apps.html"><img id="shadow" src="APPS.png"</td>
+	</tr>
+	</table>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_dancingbitmoji/6086263318298624">palmer_dancingBitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_dancingbitmoji/6086263318298624/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_racingbitmoji/6460609966686208">palmer_racingBitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_racingbitmoji/6460609966686208/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/spin-off-of-palmer_racingbitmoji/6336464264151040">Spin-off of "palmer_racingBitmoji"</a></h2><script src="https://www.khanacademy.org/computer-programming/spin-off-of-palmer_racingbitmoji/6336464264151040/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan 
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_dancingbitmojifun/6535931537965056">palmer_dancingBitmojifun</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_dancingbitmojifun/6535931537965056/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_re_sizebitmoji/4719980676956160">palmer_re_sizeBitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_re_sizebitmoji/4719980676956160/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_choice/5504896398311424">palmer_choice</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_choice/5504896398311424/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_follow/5094534855311360">palmer_follow</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_follow/5094534855311360/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_summations/5085631606210560">palmer_summations</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_summations/5085631606210560/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_zoo/5268983709745152">palmer_Zoo</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_zoo/5268983709745152/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_tag/5727143994114048">palmer_tag</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_tag/5727143994114048/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+<h2><a href="https://www.khanacademy.org/computer-programming/palmer_contacts/5853917377773568">palmer_contacts</a></h2><script src="https://www.khanacademy.org/computer-programming/palmer_contacts/5853917377773568/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script><p>Made using: <a href="http://www.khanacademy.org/computer-programming">Khan Academy Computer Science</a></p>
+    </body>
+</html>
